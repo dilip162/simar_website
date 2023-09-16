@@ -1,0 +1,7 @@
+.fxedBg {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)),
+    url("https://images.pexels.com/photos/6194398/pexels-photo-6194398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+      fixed center center;
+  background-size: cover;
+  padding: 200px 0;
+}
